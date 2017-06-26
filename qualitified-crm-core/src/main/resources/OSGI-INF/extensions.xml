@@ -499,13 +499,13 @@
       <footerStyle>display: none;</footerStyle>
       <loginBoxBackgroundStyle>none 0 0 null</loginBoxBackgroundStyle>
       <loginBoxWidth>300px</loginBoxWidth>
-      <loginButtonBackgroundColor>#ff7f00</loginButtonBackgroundColor>
+      <loginButtonBackgroundColor>#0F7C11</loginButtonBackgroundColor>
       <videos loop="false" muted="true">
         <video src=""/>
       </videos>
-      <logoUrl>${org.nuxeo.ecm.contextPath}/img/qualitified.png</logoUrl>
-      <logoWidth>185</logoWidth>
-      <logoHeight>50</logoHeight>
+      <logoUrl>${org.nuxeo.ecm.contextPath}/img/logo.png</logoUrl>
+      <logoWidth>0</logoWidth>
+      <logoHeight>0</logoHeight>
     </loginScreenConfig>
 
     <loginScreenConfig>
