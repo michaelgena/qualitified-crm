@@ -1,5 +1,7 @@
 # qualitified-crm
 **This project is moved to https://github.com/qualitified/qualitified-crm**
+
+
 This plugin adds all the necessary features for your nuxeo instance to become a CRM (Customer Relationship Management) solution.
 It provides everything to handle Accounts, Opportunities, Contacts, Interactions etc.
 The User Interface is based on Web UI.
