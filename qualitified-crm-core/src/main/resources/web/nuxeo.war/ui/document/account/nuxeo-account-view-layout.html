@@ -37,7 +37,7 @@
         <h1>[[document.properties.dc:title]]</h1>
       </div>
       <div role="widget">
-        <label>Type</label>
+        <label>[[i18n('label.account.type')]]</label>
         <div>[[formatDirectory(document.properties.account:accountType)]]</div>
       </div>
       <div role="widget">
@@ -312,6 +312,7 @@
     'use strict';
     Polymer({
       is: 'nuxeo-account-view-layout',
+      behaviors: [Nuxeo.LayoutBehavior],
       properties: {
 
         /**
